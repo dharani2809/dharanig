@@ -12,7 +12,7 @@
 ### 📫 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/dharani-g-b184b325a/"_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="linkedin" /></a>
-  <a href="https://github.com/your-username" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="github" /></a>
+  <a href="https://github.com/dharani2809/dharanig/blob/main/README.md"_blank"><img align="center" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="github" /></a>
 </p>
 
 ---
