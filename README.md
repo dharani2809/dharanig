@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 - 🔭 I’m currently working on an **E-commerce Web Application**
-- 🌱 I’m currently learning **Full Stack Development** (Java, React.js, Node.js)
+- 🌱 I’m currently learning **Full Stack Development** (Java, Python, React.js, Node.js)
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 - 🤝 I’m looking for help with **Java** and **React.js**
 - 📫 How to reach me **dharanig2809@gmail.com**
